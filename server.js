@@ -9,7 +9,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // ========== KONFIGURASI ==========
-const BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'; // GANTI DENGAN TOKEN BOT ANDA
+const BOT_TOKEN = '8571006025:AAHh19imq5oUuOIX33znhfCTXC6xNix9Exo'; // GANTI DENGAN TOKEN BOT ANDA
 const CHAT_ID = '6834832649';     // GANTI DENGAN CHAT ID ANDA
 const ADMIN_PASSWORD = '083183';
 
